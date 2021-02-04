@@ -1,7 +1,7 @@
 # Small-JS-Projects
 Few small components in HTML/CSS/JS only.  
 
-This was inspired by Florin Pop [https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA]  
+This was inspired by [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA "Florin Pop's channel")  
 who was making 10 challenge in 1 hour, so I tried myself and here is my result !  
 
 1. Hamburger Button. 
