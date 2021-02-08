@@ -44,6 +44,26 @@ body.dark label {
     background-color: white;
 }
 
+body.dark a {
+    background-color: white;
+    color: black;
+}
+
 input {
     display: none;
+}
+
+.return {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    font-size: 1.4em;
+    font-weight: 900;
+    color: white;
+    background-color: darkseagreen;
+    text-align: center;
+    border-radius: 5px;
+    height: 40px;
+    width: 40px;
+    transition: background-color 0.2s linear;
 }
